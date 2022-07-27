@@ -23,7 +23,7 @@ Purchase Sellwands: https://www.mc-market.org/resources/24604/
 
 Purchase Leaderboards: https://www.mc-market.org/resources/24605/
 
-Purchase Multipliers: https://www.mc-market.org/resources/24605/
+Purchase Multipliers: https://www.mc-market.org/resources/24607/
 
 # Examples and Documentation
 Documentation is available on the following wiki: https://github.com/Verwarmingman/SkriptMultiplier/wiki
