@@ -1,7 +1,7 @@
 # Skript Multipliers [1.16-1.18]
 Multiplier system made in Skript v2.6.X
 
-This skript allows you to custom boosters with Skript. See wiki for more information! Currently essentials/vault balance, minecraft exp and mobcoins (skript list variable) are supported.
+This skript allows you to use custom boosters with Skript. See wiki for more information! Currently essentials/vault balance, minecraft exp and mobcoins (skript list variable) are supported.
 
 Please be sure to check out the wiki! The wiki links are listed below.
 
